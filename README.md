@@ -16,6 +16,7 @@ I am a software engineer that enjoys building clean, scalable, user-focused, and
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-00BFA5?style=flat-square&logo=langchain&logoColor=1C3C3C" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=FFFFFF" />
 </p>
 
 ### What I am Currently Working On
