@@ -1,15 +1,13 @@
 # Hi there, Jahleel here! 👋
+💡 *Full-Stack Engineer crafting scalable, intelligent, and user-driven software.*
 
+
+### Who I Am
 I am a software engineer that enjoys building clean, scalable, user-focused, and easily maintainable applications. From backend systems and APIs to frontend design and ML integrations, I love reaching across the full stack. 
 
 ### Where to Reach Me
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahleel-t-443278215/)
 [![](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jtownwar1@gmail.com)
-
-### Experience Snapshot
-- MOVE Fellow @ Handshake AI - enhancing AI model safety and contextual understanding
-- Tech Consultant @ Datable Servies - building full-stack applications with React, Supabase, Go, and assistance from LovableAI.
-- Software Engineer for AI Data Training @ ScaleAI - Designing and refining various SOTA AI models' output via reinforcement learning and data labeling.
 
 ### Technologies I Use
 <p>
@@ -51,9 +49,10 @@ I am a software engineer that enjoys building clean, scalable, user-focused, and
 
 - **Resume Screener:** Flask + React + PostgreSQL + Pinecone + OpenAI/LangChain AI-powered resume screener that utilizes vectorization for similarity analysis of a resume and a job description.
 
-
 ### Currently Learning/Exploring
-
+- Improving my skills E2E
+- Building efficient embeddings workflows with LangChain + Pinecone
+- Experimenting with resume-job matching models using embeddings and semantic similarity
 
 ### What I Have Completed
 
@@ -67,13 +66,23 @@ I am a software engineer that enjoys building clean, scalable, user-focused, and
   - **RestaSwipe:** MERN stack application for restaurant discovery in NYC via tinder-style swiping.
   - **Resume Screener:** Flask + OpenAI application to give a best fit analysis between a user's resume and a job description.
 
+### Featured Projects
+- [Resume Screener](https://github.com/JahleelT/resume-screener)
+- [TrackAJob](https://github.com/JahleelT/TrackAJob)
+- [⚠️ WIP CommuteSmartAI](https://github.com/JahleelT/CommuteSmartAI)
 
 ### What's Next
 
   - **CommuteSmartAI:** React (TS) + Fiber (Go) + Python + OpenAI NYC public transportation application. Think Google Maps, but better and a more intuitive navigational experience!
   - **ResNGo:** React Native application for creating reservations
 
+### Experience Snapshot
+- MOVE Fellow @ Handshake AI - Enhancing AI model safety and contextual understanding
+- Tech Consultant @ Datable Services - Building full-stack applications with React, Supabase, Go, and LovableAI.
+- Software Engineer for AI Data Training @ ScaleAI - Refining outputs of state-of-the-art AI models through reinforcement learning and precise data annotation.
 
+### My Development Philosophy
+- My approach to development starts with understanding the full system before breaking it into modular, precise components. Once I’ve grasped the overall picture, I focus on making each piece clean, maintainable, and scalable. I believe that great code is both functional and understandable; clarity leads to longevity.
 
 <!--
 **JahleelT/JahleelT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
