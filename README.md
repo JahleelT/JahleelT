@@ -6,6 +6,10 @@ I am a software engineer that enjoys building clean, scalable, user-focused, and
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahleel-t-443278215/)
 [![](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jtownwar1@gmail.com)
 
+### Experience Snapshot
+- MOVE Fellow @ Handshake AI - enhancing AI model safety and contextual understanding
+- Tech Consultant @ Datable Servies - building full-stack applications with React, Supabase, Go, and assistance from LovableAI.
+- Software Engineer for AI Data Training @ ScaleAI - Designing and refining various SOTA AI models' output via reinforcement learning and data labeling.
 
 ### Technologies I Use
 <p>
