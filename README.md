@@ -69,7 +69,7 @@ I am a software engineer that enjoys building clean, scalable, user-focused, and
 ### Featured Projects
 - [Resume Screener](https://github.com/JahleelT/resume-screener)
 - [TrackAJob](https://github.com/JahleelT/TrackAJob)
-- [⚠️ WIP CommuteSmartAI](https://github.com/JahleelT/CommuteSmartAI)
+- [(⚠️ WIP) CommuteSmartAI](https://github.com/JahleelT/CommuteSmartAI)
 
 ### What's Next
 
