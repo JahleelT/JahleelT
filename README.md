@@ -47,7 +47,7 @@ I am a software engineer that enjoys building clean, scalable, user-focused, and
 
 ### What I am Currently Working On
 
-- **Resume Screener:** Flask + React + PostgreSQL + Pinecone + OpenAI/LangChain AI-powered resume screener that utilizes vectorization for similarity analysis of a resume and a job description.
+- **SniffNotes:** E2E NextJS application similar to Fragrantica, Parfumo, or BaseNotes, but more focused on the experience of smelling fragrances.
 
 ### Currently Learning/Exploring
 - Improving my skills E2E
