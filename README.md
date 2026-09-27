@@ -69,12 +69,11 @@ I am a software engineer that enjoys building clean, scalable, user-focused, and
 ### Featured Projects
 - [Resume Screener](https://github.com/JahleelT/resume-screener)
 - [TrackAJob](https://github.com/JahleelT/TrackAJob)
-- [ **(** ⚠️ WIP **)** CommuteSmartAI](https://github.com/JahleelT/CommuteSmartAI)
 
 ### What's Next
 
-  - **CommuteSmartAI:** React (TS) + Fiber (Go) + Python + OpenAI NYC public transportation application. Think Google Maps, but better and a more intuitive navigational experience!
-  - **ResNGo:** React Native application for creating reservations
+  - **(Name TBD) Weighted Task Visualizer:** A progress visualization platform that turns weighted tasks into evolving visual landscapes. See where a project stands through shapes, structures, and growth; not like your normal task panel in the actions tab!
+  - [**(** ⚠️ Tabled for Now **)** CommuteSmartAI](https://github.com/JahleelT/CommuteSmartAI)
 
 ### Experience Snapshot
 - MOVE Fellow @ Handshake AI - Enhancing AI model safety and contextual understanding
